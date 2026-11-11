@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- 卡片底 -->
+    <path
+        android:fillColor="#F2F6FC"
+        android:pathData="M34,30 h40 a10,10 0 0 1 10,10 v28 a10,10 0 0 1 -10,10 h-40 a10,10 0 0 1 -10,-10 v-28 a10,10 0 0 1 10,-10 z" />
+    <!-- 文本行 -->
+    <path
+        android:fillColor="#3A3F4B"
+        android:pathData="M34,42 h40 v4 h-40 z" />
+    <path
+        android:fillColor="#3A3F4B"
+        android:pathData="M34,53 h28 v4 h-28 z" />
+    <path
+        android:fillColor="#3A3F4B"
+        android:pathData="M34,64 h20 v4 h-20 z" />
+    <!-- 翻译光点 -->
+    <path
+        android:fillColor="#5AC8B0"
+        android:pathData="M72,66 m-7,0 a7,7 0 1,0 14,0 a7,7 0 1,0 -14,0 z" />
+</vector>

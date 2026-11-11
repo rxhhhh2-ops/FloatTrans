@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">浮译</string>
+    <string name="acc_service_label">浮译划词翻译</string>
+    <string name="acc_service_desc">监听屏幕上长按选中的文字，在屏幕上方弹出悬浮翻译卡片。文字只会发送到你配置的翻译接口；开启「免费接口兜底」时，调用失败后会改用 MyMemory / Google。</string>
+    <string name="process_text_label">浮译</string>
+</resources>
